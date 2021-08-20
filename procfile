@@ -1,1 +1,1 @@
-web: gunicorn COMS.wsgi --log-file -
+web: gunicorn pb.wsgi 
